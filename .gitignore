@@ -1,0 +1,17 @@
+# IntelliJ #
+############
+.idea
+*.iml
+
+# Maven #
+#########
+target
+
+# Binary Downloads #
+####################
+**/selenium_standalone_zips/
+**/selenium_standalone_binaries/
+
+# Tests output #
+####################
+config.properties
